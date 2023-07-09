@@ -1,0 +1,20 @@
+{
+  "name": "wow-boost",
+  "version": "0.0.1",
+  "description": "WOW Bost Wiki",
+  "main": "index.js",
+  "authors": {
+    "name": "Willem Franco",
+    "email": "willemfranco@gmail.com"
+  },
+  "repository": "git@github.com:wffranco-demos/wow-boost.git/wow-boost",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
