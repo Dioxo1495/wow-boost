@@ -6,6 +6,7 @@ export default defineConfig({
   description: "Red Diamond Boost",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/img/nasa-logo.svg',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
@@ -21,8 +22,8 @@ export default defineConfig({
       }
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+    // socialLinks: [
+    //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+    // ],
   }
 })
