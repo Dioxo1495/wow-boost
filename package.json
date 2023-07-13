@@ -16,6 +16,7 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "tailwindcss": "^3.3.3",
     "vuepress": "^1.9.9"
   }
 }
