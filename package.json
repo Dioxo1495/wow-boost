@@ -9,13 +9,13 @@
   },
   "repository": "git@github.com:wffranco-demos/wow-boost.git/wow-boost",
   "scripts": {
-    "start": "npm run dev:legacy",
-    "dev:legacy": "NODE_OPTIONS=--openssl-legacy-provider vuepress dev src",
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "start": "npm run dev",
+    "dev": "vitepress dev src",
+    "build": "vitepress build src",
+    "preview": "vitepress preview src"
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.9.9"
+    "vitepress": "^1.0.0-beta.5"
   }
 }
