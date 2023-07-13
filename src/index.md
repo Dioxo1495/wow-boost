@@ -1,16 +1,25 @@
 ---
-home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: WOW Boost Services
-actionText: Get Start →
-actionLink: /guide/
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
+
+hero:
+  name: "Red Diamond Boost"
+  text: "Red Diamond Boost"
+  tagline: My great project tagline
+  actions:
+    - theme: brand
+      text: Markdown Examples
+      link: /markdown-examples
+    - theme: alt
+      text: API Examples
+      link: /api-examples
+
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by Willem Franco with ❤️
+  - title: Feature A
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature B
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature C
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 <div class="p-3">Test</div>
