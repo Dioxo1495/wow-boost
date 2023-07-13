@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: WOW Bost Wiki
-actionText: Quick Start →
+tagline: WOW Boost Services
+actionText: Get Start →
 actionLink: /guide/
 features:
 - title: Feature 1 Title
