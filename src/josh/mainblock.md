@@ -1,32 +1,36 @@
+<script setup>
+import Card from '../components/card.vue';
+</script>
+
 ## Welcome to
 # Red Diamond Boost!
 
 ## Popular Services:
-<div class="container">
+<div class="flex gap-3">
+  <Card>
     <h1>Mythic+ Keys</h1>
     <ul>
-        <li>Timed</li>
-        <li>From +10 to + 21 key lvl</li>
-        <li>Equip from 415 to 431 ilvl</li>
+      <li>Timed</li>
+      <li>From +10 to + 21 key lvl</li>
+      <li>Equip from 415 to 431 ilvl</li>
     </ul>
-</div>
-
-<div class="container">
+  </Card>
+  <Card>
     <h1>Keystone Master</h1>
     <ul>
-        <li>FoS achievement</li>
-        <li>2 loot traders for free</li>
-        <li>At least 2000 Mythic+ points</li>
+      <li>FoS achievement</li>
+      <li>2 loot traders for free</li>
+      <li>At least 2000 Mythic+ points</li>
     </ul>
-</div>
-
-<div class="container">
+  </Card>
+  <Card>
     <h1>Keystone Hero</h1>
     <ul>
-        <li>FoS achievement</li>
-        <li>Teleport unlock</li>
-        <li>2500+ Mythic score</li>
+      <li>FoS achievement</li>
+      <li>Teleport unlock</li>
+      <li>2500+ Mythic score</li>
     </ul>
+  </Card>
 </div>
 
 ## Contac Us
@@ -72,7 +76,7 @@ Mounts
 <div>
 <h1>JOIN NOW</h1>
 
-We want to create a community in discord, where our customers can empathize and share game experiences, where they can chat, have fun, share memes and feel comfortable 
+We want to create a community in discord, where our customers can empathize and share game experiences, where they can chat, have fun, share memes and feel comfortable
 
 Where they have the ease and speed of being able to contact us and contract any of our services
 </div>
