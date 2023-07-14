@@ -2,48 +2,59 @@
 # Red Diamond Boost!
 
 ## Popular Services:
-::: tip
-Mythic+ Keys
-- Timed
-- From +10 to + 21 key lvl
-- Equip from 415 to 431 ilvl
-:::
+<div class="container">
+    <h1>Mythic+ Keys</h1>
+    <ul>
+        <li>Timed</li>
+        <li>From +10 to + 21 key lvl</li>
+        <li>Equip from 415 to 431 ilvl</li>
+    </ul>
+</div>
 
-::: tip
-Keystone Master
-- FoS achievement
-- 2 loot traders for free
-- At least 2000 Mythic+ points
-:::
+<div class="container">
+    <h1>Keystone Master</h1>
+    <ul>
+        <li>FoS achievement</li>
+        <li>2 loot traders for free</li>
+        <li>At least 2000 Mythic+ points</li>
+    </ul>
+</div>
 
-::: tip
-Keystone Hero
-- FoS achievement
-- Teleport unlock
-- 2500+ Mythic score
-:::
+<div class="container">
+    <h1>Keystone Hero</h1>
+    <ul>
+        <li>FoS achievement</li>
+        <li>Teleport unlock</li>
+        <li>2500+ Mythic score</li>
+    </ul>
+</div>
 
 ## Contac Us
 
 **Easy steps to contact us fast and easy**
-
-1. Join our discord
-2. open a ticket
-3. wait for our team to contact you
+<div class="container">
+    <h1>1. Join our discord</h1>
+</div>
+<div class="container">
+    <h1>2. open a ticket</h1>
+</div>
+<div class="container">
+    <h1>3. wait for our team to contact you</h1>
+</div>
 
 ## Services
-::: danger
+<div class="container">
 Mythic+
-:::
-::: danger
+</div>
+<div class="container">
 Power Lvling
-:::
-::: danger
+</div>
+<div class="container">
 Questing
-:::
-::: danger
+</div>
+<div class="container">
 Mounts
-:::
+</div>
 
 - Powerleveling
 - Mythic+ keys
@@ -58,8 +69,10 @@ Mounts
 - If you want something else, just feel free to ask!
 
 ## Join Discord
-**JOIN NOW**
+<div>
+<h1>JOIN NOW</h1>
 
 We want to create a community in discord, where our customers can empathize and share game experiences, where they can chat, have fun, share memes and feel comfortable 
 
 Where they have the ease and speed of being able to contact us and contract any of our services
+</div>
