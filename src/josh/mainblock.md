@@ -8,7 +8,7 @@ import Card from '../components/card.vue';
 ## Popular Services:
 <div class="flex gap-3">
   <Card>
-    <h1>Mythic+ Keys</h1>
+    <h3>Mythic+ Keys</h3>
     <ul>
       <li>Timed</li>
       <li>From +10 to + 21 key lvl</li>
@@ -16,15 +16,15 @@ import Card from '../components/card.vue';
     </ul>
   </Card>
   <Card>
-    <h1>Keystone Master</h1>
+    <h3>Keystone Master</h3>
     <ul>
-      <li>FoS achievement</li>
-      <li>2 loot traders for free</li>
-      <li>At least 2000 Mythic+ points</li>
+      <li class='m-0'>FoS achievement</li>
+      <li class='m-0'>2 loot traders for free</li>
+      <li class='m-0'>At least 2000 Mythic+ points</li>
     </ul>
   </Card>
   <Card>
-    <h1>Keystone Hero</h1>
+    <h3>Keystone Hero</h3>
     <ul>
       <li>FoS achievement</li>
       <li>Teleport unlock</li>
