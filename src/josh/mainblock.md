@@ -9,7 +9,7 @@ import Card from '../components/card.vue';
 <div class="flex gap-3">
   <Card>
     <h3>Mythic+ Keys</h3>
-    <ul>
+    <ul class="list-none">
       <li>Timed</li>
       <li>From +10 to + 21 key lvl</li>
       <li>Equip from 415 to 431 ilvl</li>
