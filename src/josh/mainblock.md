@@ -2,25 +2,24 @@
 import Card from '../components/card.vue';
 </script>
 
-## Welcome to
-# Red Diamond Boost!
+# Welcome to Red Diamond Boost!
 
 ## Popular Services:
 <div class="flex gap-3">
   <Card>
     <h3>Mythic+ Keys</h3>
-    <ul class="list-none">
+    <ul>
       <li>Timed</li>
-      <li>From +10 to + 21 key lvl</li>
+      <li class="mt-0">From +10 to + 21 key lvl</li>
       <li>Equip from 415 to 431 ilvl</li>
     </ul>
   </Card>
   <Card>
     <h3>Keystone Master</h3>
     <ul>
-      <li class='m-0'>FoS achievement</li>
-      <li class='m-0'>2 loot traders for free</li>
-      <li class='m-0'>At least 2000 Mythic+ points</li>
+      <li>FoS achievement</li>
+      <li>2 loot traders for free</li>
+      <li>At least 2000 Mythic+ points</li>
     </ul>
   </Card>
   <Card>
