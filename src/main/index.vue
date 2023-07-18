@@ -9,7 +9,7 @@ import Container from '../.vitepress/components/container.vue';
 
     <h2 class="text-2xl">Popular Services:</h2>
     <Container class="flex gap-3">
-      <Card>
+      <Card src="/img/popular-cardbg-1.png">
         <h3 class="text-xl">Mythic+ Keys</h3>
         <ul class="list-disc list-inside">
           <li>Timed</li>
@@ -17,7 +17,7 @@ import Container from '../.vitepress/components/container.vue';
           <li>Equip from 415 to 431 ilvl</li>
         </ul>
       </Card>
-      <Card>
+      <Card src="/img/popular-cardbg-2.png">
         <h3 class="text-xl">Keystone Master</h3>
         <ul class="list-disc list-inside">
           <li>FoS achievement</li>
@@ -25,7 +25,7 @@ import Container from '../.vitepress/components/container.vue';
           <li>At least 2000 Mythic+ points</li>
         </ul>
       </Card>
-      <Card>
+      <Card src="/img/popular-cardbg-3.png">
         <h3 class="text-xl">Keystone Hero</h3>
         <ul class="list-disc list-inside">
           <li>FoS achievement</li>
