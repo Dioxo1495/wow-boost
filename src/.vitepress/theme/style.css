@@ -17,6 +17,9 @@
   .VPImage.logo {
     @apply drop-shadow-md;
   }
+  .VPPage > div > div {
+    display: grid;
+  }
 }
 
 /**
@@ -104,4 +107,3 @@
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand) !important;
 }
-
