@@ -6,23 +6,23 @@
         <div class="flex flex-col justify-end border border-gray-400 rounded p-3 max-w-sm w-60 h-80 p-3 bg-cover hover:scale-110 transition-transform" style="background-image: url(http://localhost:5173/img/popular-cardbg-1.png);">
           <h3 class="text-2xl font-bold">Mythic+ Keys</h3>
           <ul class="list-disc list-inside text-left">
-            <li>Timed</li>
             <li>From +10 to + 21 key lvl</li>
             <li>Equip from 415 to 431 ilvl</li>
+            <li>Gear up to 447 Item Level</li>
           </ul>
         </div>
         <div class="flex flex-col justify-end border border-gray-400 rounded p-3 max-w-sm w-60 h-80 p-3 bg-cover hover:scale-110 transition-transform" style="background-image: url(http://localhost:5173/img/popular-cardbg-2.png);">
           <h3 class="text-2xl font-bold">Keystone Master</h3>
           <ul class="list-disc list-inside text-left">
-            <li class="">FoS achievement</li>
-            <li class="">2 loot traders for free</li>
+            <li class="">Achievement Mount</li>
+            <li class="">Loot traders</li>
             <li class="">At least 2000 Mythic+ points</li>
           </ul>
         </div>
         <div class="flex flex-col justify-end border border-gray-400 rounded p-3 max-w-sm w-60 h-80 p-3 bg-cover hover:scale-110 transition-transform" style="background-image: url(http://localhost:5173/img/popular-cardbg-3.png);">
           <h3 class="text-2xl font-bold">Keystone Hero</h3>
           <ul class="list-disc list-inside text-left">
-            <li class="">FoS achievement</li>
+            <li class="">Achievement Mount</li>
             <li class="">Teleport unlock</li>
             <li class="">2500+ Mythic score</li>
           </ul>
@@ -61,7 +61,7 @@
           <li>Gearing toons with armor stack</li>
           <li>Archievements</li>
           <li>Low pvp boosting (like 0-1200)</li>
-          <li>Some normal and heroic raid (not full clear)</li>
+          <li>Some normal and heroic raid</li>
           <li>Keystone Master (KSM)</li>
           <li>Keystone Hero (KSH)</li>
           <li>New Valor farm</li>
