@@ -7,7 +7,7 @@
     "name": "Willem Franco",
     "email": "willemfranco@gmail.com"
   },
-  "repository": "git@github.com:wffranco-demos/wow-boost.git/wow-boost",
+  "repository": "git@github.com:wffranco-demos/wow-boost.git",
   "scripts": {
     "start": "npm run dev",
     "dev": "vitepress dev docs",
