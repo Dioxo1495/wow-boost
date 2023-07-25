@@ -11,8 +11,8 @@ export default defineConfig({
     siteTitle: false,
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Services', link: '/services' },
-      { text: 'Contact Us', link: '/contact' },
+      { text: 'Services', link: '/services/' },
+      // { text: 'Contact Us', link: '/contact' },
     ],
 
     // sidebar: [
