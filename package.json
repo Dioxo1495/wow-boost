@@ -10,9 +10,9 @@
   "repository": "git@github.com:wffranco-demos/wow-boost.git/wow-boost",
   "scripts": {
     "start": "npm run dev",
-    "dev": "vitepress dev src",
-    "build": "vitepress build src",
-    "preview": "vitepress preview src"
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
   },
   "license": "MIT",
   "devDependencies": {
