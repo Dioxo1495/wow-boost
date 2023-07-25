@@ -3,7 +3,7 @@
     <div class="md:container mx-auto grid gap-10 p-3 text-white text-center">
       <h2 class="mt-5 text-4xl text-center lg:font-semibold text-shadow">Popular Services:</h2>
       <div class="flex gap-5 p-3 justify-around">
-        <div class="flex flex-col justify-end border border-gray-400 rounded p-3 max-w-sm w-72 h-80 p-3 bg-cover hover:scale-110 transition-transform" style="background-image: url(http://localhost:5173/img/popular-cardbg-1.png);">
+        <div class="flex flex-col justify-end border border-gray-400 rounded p-3 max-w-sm w-72 h-80 p-3 bg-cover hover:scale-110 transition-transform" style="background-image: url(/img/popular-cardbg-1.png);">
           <h3 class="text-2xl font-bold">Mythic+ Keys</h3>
           <ul class="list-disc list-inside text-left">
             <li>From +10 to + 21 key lvl</li>
@@ -11,7 +11,7 @@
             <li>Gear up to 447 Item Level</li>
           </ul>
         </div>
-        <div class="flex flex-col justify-end border border-gray-400 rounded p-3 max-w-sm w-72 h-80 p-3 bg-cover hover:scale-110 transition-transform" style="background-image: url(http://localhost:5173/img/popular-cardbg-2.png);">
+        <div class="flex flex-col justify-end border border-gray-400 rounded p-3 max-w-sm w-72 h-80 p-3 bg-cover hover:scale-110 transition-transform" style="background-image: url(/img/popular-cardbg-2.png);">
           <h3 class="text-2xl font-bold">Keystone Master</h3>
           <ul class="list-disc list-inside text-left">
             <li class="">Achievement Mount</li>
@@ -19,7 +19,7 @@
             <li class="">At least 2000 Mythic+ points</li>
           </ul>
         </div>
-        <div class="flex flex-col justify-end border border-gray-400 rounded p-3 max-w-sm w-72 h-80 p-3 bg-cover hover:scale-110 transition-transform" style="background-image: url(http://localhost:5173/img/popular-cardbg-3.png);">
+        <div class="flex flex-col justify-end border border-gray-400 rounded p-3 max-w-sm w-72 h-80 p-3 bg-cover hover:scale-110 transition-transform" style="background-image: url(/img/popular-cardbg-3.png);">
           <h3 class="text-2xl font-bold">Keystone Hero</h3>
           <ul class="list-disc list-inside text-left">
             <li class="">Achievement Mount</li>

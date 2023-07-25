@@ -1,5 +1,5 @@
 <template>
-  <main class="grid gap-3 bg-cover" style="background-image: url(http://localhost:5173/img/welcome.png); min-height: calc(100vh - var(--vp-nav-height));">
+  <main class="grid gap-3 bg-cover" style="background-image: url(/img/welcome.png); min-height: calc(100vh - var(--vp-nav-height));">
     <div class="md:container mx-auto flex flex-col justify-center gap-7 px-5 text-white text-center">
       <h1 class="text-5xl lg:font-semibold tails-preview drop-shadow-md text-shadow">Welcome to</h1>
       <h1 class="text-6xl font-bold drop-shadow-2xl text-shadow">Red Diamond Boost!</h1>
