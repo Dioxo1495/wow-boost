@@ -102,7 +102,7 @@
       </div>
     </div>
   </main>
-  <footer class="bg-white dark:bg-black">
+  <footer class="bg-white dark:bg-black border-t">
     <div class="md:container mx-auto p-3 flex gap-5 justify-between items-center">
       <img class="w-10" src="/img/logo.png" alt="">
       <div class="flex gap-5">
@@ -111,9 +111,15 @@
         <img class="h-10" src="/img/theter-logo.png" alt="">
       </div>
       <div class="flex gap-5">
-        <img class="h-8 text-white" src="/img/facebook.svg" alt="">
-        <img class="h-8 text-white" src="/img/twitter.svg" alt="">
-        <img class="h-8 text-white" src="/img/instagram.svg" alt="">
+        <svg class="dark:text-white h-8" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 50 50">
+          <path d="M25 3C12.85 3 3 12.85 3 25c0 11.03 8.125 20.137 18.712 21.728V30.831h-5.443v-5.783h5.443V21.2c0-6.371 3.104-9.168 8.399-9.168 2.536 0 3.877.188 4.512.274v5.048h-3.612c-2.248 0-3.033 2.131-3.033 4.533v3.161h6.588l-.894 5.783h-5.694v15.944C38.716 45.318 47 36.137 47 25c0-12.15-9.85-22-22-22z"/>
+        </svg>
+        <svg class="dark:text-white h-8" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 50 50">
+          <path d="M11 4a7 7 0 0 0-7 7v28a7 7 0 0 0 7 7h28a7 7 0 0 0 7-7V11a7 7 0 0 0-7-7H11zm2.086 9h7.937l5.637 8.01L33.5 13H36l-8.21 9.613L37.913 37H29.98l-6.541-9.293L15.5 37H13l9.309-10.896L13.086 13zm3.828 2 14.107 20h3.065L19.979 15h-3.065z"/>
+        </svg>
+        <svg class="dark:text-white h-8" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 50 50">
+          <path d="M16 3C8.83 3 3 8.83 3 16v18c0 7.17 5.83 13 13 13h18c7.17 0 13-5.83 13-13V16c0-7.17-5.83-13-13-13H16zm21 8c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm-12 3c6.07 0 11 4.93 11 11s-4.93 11-11 11-11-4.93-11-11 4.93-11 11-11zm0 2c-4.96 0-9 4.04-9 9s4.04 9 9 9 9-4.04 9-9-4.04-9-9-9z"/>
+        </svg>
       </div>
     </div>
   </footer>
