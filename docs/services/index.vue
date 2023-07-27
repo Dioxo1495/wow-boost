@@ -104,7 +104,7 @@
   </main>
   <footer class="bg-white dark:bg-black border-t">
     <div class="md:container mx-auto p-3 flex gap-5 justify-between items-center">
-      <img class="w-10" src="/img/logo.png" alt="">
+      <img class="w-10" src="/img/logo-icon.png" alt="">
       <div class="flex gap-5">
         <img class="h-10" src="/img/paypal-logo.png" alt="">
         <img class="h-10" src="/img/binance-logo.png" alt="">
