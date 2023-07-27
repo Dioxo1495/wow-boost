@@ -1,7 +1,7 @@
 <template>
   <main class="grid gap-3">
     <div class="md:container mx-auto grid gap-10 p-3 text-white text-center">
-      <h2 class="mt-5 text-4xl text-center lg:font-semibold text-shadow">Popular Services:</h2>
+      <h2 class="mt-5 text-4xl text-center lg:font-semibold text-red-600 dark:text-white">Popular Services:</h2>
       <div class="flex gap-5 p-3 justify-around">
         <div class="flex flex-col justify-end border border-gray-400 rounded p-3 max-w-sm w-72 h-80 p-3 bg-cover hover:scale-110 transition-transform" style="background-image: url(/img/popular-cardbg-1.png);">
           <h3 class="text-2xl font-bold">Mythic+ Keys</h3>
@@ -61,7 +61,7 @@
         </div>
       </div>
     </div>
-    <div class="p-5">
+    <div class="md:container mx-auto p-5">
       <h2 class="text-2xl text-red-600">Services</h2>
       <div class="grid grid-cols-[1fr_auto] gap-5">
         <ul class="list-disc list-inside">
@@ -79,22 +79,22 @@
         </ul>
         <div class="grid grid-cols-2 gap-5">
           <div class="aspect-square w-32 bg-cover border-8 border-black rounded flex flex-col justify-end" style="background-image: url(/img/boost.png);">
-            <span class="text-center pt-1 bg-neutral-900/50">
+            <span class="text-center pt-1 bg-neutral-900/50 text-white">
               Mythic+
             </span>
           </div>
           <div class="aspect-square w-32 bg-cover border-8 border-black rounded flex flex-col justify-end text-shadow" style="background-image: url(/img/power-lvl.png);">
-            <span class="text-center pt-1 bg-neutral-900/50">
+            <span class="text-center pt-1 bg-neutral-900/50 text-white">
               Power Lvling
             </span>
           </div>
           <div class="aspect-square w-32 bg-cover border-8 border-black rounded flex flex-col justify-end text-shadow" style="background-image: url(/img/quest.png);">
-            <span class="text-center pt-1 bg-neutral-900/50">
+            <span class="text-center pt-1 bg-neutral-900/50 text-white">
               Questing
             </span>
           </div>
           <div class="aspect-square w-32 bg-cover border-8 border-black rounded flex flex-col justify-end text-shadow" style="background-image: url(/img/mount.png);">
-            <span class="text-center pt-1 bg-neutral-900/50">
+            <span class="text-center pt-1 bg-neutral-900/50 text-white">
               Mounts
             </span>
           </div>
@@ -102,4 +102,19 @@
       </div>
     </div>
   </main>
+  <footer class="bg-white dark:bg-black">
+    <div class="md:container mx-auto p-3 flex gap-5 justify-between items-center">
+      <img class="w-10" src="/img/logo.png" alt="">
+      <div class="flex gap-5">
+        <img class="h-10" src="/img/paypal-logo.png" alt="">
+        <img class="h-10" src="/img/binance-logo.png" alt="">
+        <img class="h-10" src="/img/theter-logo.png" alt="">
+      </div>
+      <div class="flex gap-5">
+        <img class="h-8 text-white" src="/img/facebook.svg" alt="">
+        <img class="h-8 text-white" src="/img/twitter.svg" alt="">
+        <img class="h-8 text-white" src="/img/instagram.svg" alt="">
+      </div>
+    </div>
+  </footer>
 </template>
