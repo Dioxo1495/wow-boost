@@ -11,26 +11,26 @@
       <div class="grid md:grid-cols-3 gap-3 mt-10">
         <div class="flex flex-col gap-3 rounded rouded-lg bg-neutral-900/70 p-3">
           <h1 class="text-left text-2xl font-bold">
-            Titulo
+            Competitive prices
           </h1>
           <p class="text-left">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem tempore eum magnam cupiditate sapiente sit
+            We are constantly striving to bring the best market prices without losing the quality of our services.
           </p>
         </div>
         <div class="flex flex-col gap-3 rounded rouded-lg bg-neutral-900/70 p-3">
           <h1 class="text-left text-2xl font-bold">
-            Titulo
+            Service quality
           </h1>
           <p class="text-left">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem tempore eum magnam cupiditate sapiente sit
+            We work with the best boosters in order to offer the highest quality and professionalism
           </p>
         </div>
         <div class="flex flex-col gap-3 rounded rouded-lg bg-neutral-900/70 p-3">
           <h1 class="text-left text-2xl font-bold">
-            Titulo
+            Intuitive discord server
           </h1>
           <p class="text-left">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem tempore eum magnam cupiditate sapiente sit
+            We have an user friendly customer service which handles all requests through a practical ticket system
           </p>
         </div>
       </div>
