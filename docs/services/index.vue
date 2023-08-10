@@ -31,7 +31,7 @@
     </div>
     <div class="p-5 bg-white text-black">
       <div class="md:container mx-auto flex flex-col gap-10">
-        <h2 class="text-4xl text-center">EASY STEPS TO CONTACT US FAST AND EASY</h2>
+        <h2 class="text-4xl text-center">FOR PRICING FOLLOW THESE FAST AND EASY STEPS</h2>
         <div class="flex flex-wrap justify-around gap-5">
           <div class="flex flex-col gap-5">
             <img src="/img/arrow-1.png" class="pl-8 w-28 mx-auto">
